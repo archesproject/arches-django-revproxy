@@ -1,6 +1,8 @@
 
-Welcome to django-revproxy
+Welcome to arches-django-revproxy
 ==========================
+
+This is a fork of django-revproxy used to support Arches running on Django 3.2. This will not be maintained for future versions. Do not use for applications other than Arches > v6.1. 
 
 .. image:: https://coveralls.io/repos/TracyWebTech/django-revproxy/badge.svg
        :target: https://coveralls.io/r/TracyWebTech/django-revproxy?branch=master
