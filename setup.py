@@ -21,8 +21,8 @@ def find_version(*file_paths):
 
 
 setup(
-    name='django-revproxy',
-    description='Yet another Django reverse proxy application.',
+    name='arches-django-revproxy',
+    description='A temporary fork of django-revproxy to support Arches running Django 3.2',
     version=find_version('revproxy/__init__.py'),
     long_description=read('README.rst'),
     packages=['revproxy'],
